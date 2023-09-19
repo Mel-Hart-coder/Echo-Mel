@@ -1,0 +1,24 @@
+/* I make the p color green, Cambria, and made it larger, then I added a google font to the header*/
+
+
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&family=Roboto+Slab:wght@300&family=Roboto:wght@100&family=Space+Mono&display=swap');
+
+
+#dogeTaco3{
+width: 80%;
+}
+
+header{
+
+font-family: 'Roboto', sans-serif;
+
+}
+p{
+    color: green;
+    font-size: 50px;
+ 
+    
+    
+}
